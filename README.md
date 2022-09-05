@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=workgroupengineering&count_private=true&show_icons=true&theme=radical)
+
+[![workgroupengineering's github stats](https://github-readme-stats.vercel.app/api?username=workgroupengineering&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/workgroupengineering)
+
+[![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=workgroupengineering&theme=dark)](https://github.com/workgroupengineering)
