@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![workgroupengineering's github stats](https://github-readme-stats.vercel.app/api?username=workgroupengineering&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/workgroupengineering)
+[![workgroupengineering's github stats](https://github-readme-stats.vercel.app/api?username=workgroupengineering&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=dark)](https://github.com/workgroupengineering)
 
 [![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=workgroupengineering&theme=dark)](https://github.com/workgroupengineering)
